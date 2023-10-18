@@ -1,1 +1,1 @@
-print "Hello Wiktor!"
+print "Hello Martyna, Michal, Weronika!"
